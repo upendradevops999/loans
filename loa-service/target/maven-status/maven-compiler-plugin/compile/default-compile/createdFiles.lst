@@ -1,0 +1,4 @@
+loans\loa\HelloWorldService.class
+loans\loa\conf\HelloWorldConfiguration.class
+loans\loa\health\TemplateHealthCheck.class
+loans\loa\resource\HelloWorldResource.class
